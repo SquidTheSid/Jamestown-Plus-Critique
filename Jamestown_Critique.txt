@@ -1,5 +1,56 @@
-I'd never thought I'd see Jamestown Plus make its way to PC considering that
-the PS4 port came out in 2015, but here we are. So, how does Jamestown hold up
-today after nearly a decade since its original Steam release? 
+Jamestown Plus Review
 
+-- show montage of bullet dodging--
+
+Well here we are. After five years, Jamestown Plus finally makes its way to PC.
+Let's see how this version of the game holds up after nearly a decade since the
+original Steam release.
+
+For those of you that are unfamiliar with Bullet Hell shooters, here's a small
+collection of gameplay to get you brought up to speed.  --Play DoDonpachi,
+Deathsmiles, Mushishihimesama, Blue Revolver--
+
+While individual mechanics and aesthetics can greatly differ in these titles,
+all good shooters abide by two essential rules.
+
+1). Visual Clarity. 
+
+Can the player track what's happening onscreen at any given moment? 
+Can they distinguish what lies in the foreground versus the background? Is it
+easy to tell what is and is not an enemy?  Are projectiles distinct
+from all other objects, so that they don't blend into their surroundings?
+
+No matter how many bullets are flying across the screen, a well-designed shmup
+should always be visually readable by the player. 
+
+
+2). Precise Player Movement
+
+Given that shooters often require pixel perfect timing to avoid attacks,
+accurate player movement is necessary. In general, you should always be able to
+predict where your ship will go at any given moment. So systems like
+acceleration or ending inertia directly work against this principle, as it
+burderns the playerwith needless micromanagement.  
+
+
+
+Although I've noticed some issues with visual clarity, Jamestown otherwise
+meets these criteria, while adding in some of its own interesting mechanics to
+change things up. 
+
+
+LIKE:
+
+Great aesthetics
+Lots of ships to try out to tailor to your playstyle
+vaunting is a great mechanic that adds in a lot of depth to the game. 
+Lots of unlockable modes, ships, and challenges that add in replayability. 
+
+DISLIKE:
+
+Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan of that
+No way to try out ships ina training mode to get used to their mechanics. Need to figure it out in the level. 
+Balance of the ships seems a bit questionable. Like, while bomber can deal a lot of damage manually detonating his shots, gunner has 360 degree bullets, which is a lot more useful. In general, anyone with moveable projectiles seems to be more versatile. 
+Game is a bit easy on normal and difficult. Need to bump it up to Legendary to get some challenge. Might just be me. 
+Loading times are annoying, with the text being unskippable. Not a problem on its own, but frustrating when restarting a lot to do a no hit run. 
 
