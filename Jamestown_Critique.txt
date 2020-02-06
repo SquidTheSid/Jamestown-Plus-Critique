@@ -2,15 +2,15 @@ Jamestown Plus Review
 
 -- show montage of bullet dodging--
 
-Well here we are. After five years, Jamestown Plus finally makes its way to PC.
-Let's see how this version of the game holds up after nearly a decade since the
-original Steam release.
+Well here we are. After five long years, Jamestown Plus finally makes its way
+to PC.  Let's see how this version of the game holds up after nearly a decade
+since the original Steam release.
 
 For those of you that are unfamiliar with Bullet Hell shooters, here's a small
 collection of gameplay to get you brought up to speed.  --Play DoDonpachi,
 Deathsmiles, Mushishihimesama, Blue Revolver--
 
-While individual mechanics and aesthetics can greatly differ in these titles,
+While individual mechanics and aesthetics greatly differ in these titles,
 all good shooters abide by two essential rules.
 
 1). Visual Clarity. 
@@ -29,28 +29,49 @@ should always be visually readable by the player.
 Given that shooters often require pixel perfect timing to avoid attacks,
 accurate player movement is necessary. In general, you should always be able to
 predict where your ship will go at any given moment. So systems like
-acceleration or ending inertia directly work against this principle, as it
-burderns the playerwith needless micromanagement.  
-
-
+acceleration or ending inertia directly work against this principle.
 
 Although I've noticed some issues with visual clarity, Jamestown otherwise
-meets these criteria, while adding in some of its own interesting mechanics to
-change things up. 
+meets these criteria, while adding in some of its own interesting mechanics.
 
+Let me briefly talk about the basics... (gush about vaunting)
 
-LIKE:
+Where Jamestown sets itself apart from other shooters is in the insane amount
+of ship variety. You can choose between 12 vehicles, 3 of which have
+customizable specials and firing patterns. While some of the choices are a bit
+redundant, I appreciate the amount of strategic options given to the player.  
 
-Great aesthetics
-Lots of ships to try out to tailor to your playstyle
-vaunting is a great mechanic that adds in a lot of depth to the game. 
-Lots of unlockable modes, ships, and challenges that add in replayability. 
+There are some oversights with their mechanical designs. First, ships with
+controllable projectiles are far more reliable than ones without them. Most
+notably, the Gunner pilot, which has 360 degree bullet firing, is the most
+useful on a regular basis. That's not to say that the other ships are bad, but
+I find the improved positioning offer by Gunner to be far more useful than the
+extra damage potential from ships with static firing patterns like Bomber. That
+said, I don't think there are any outright bad ships.
+
+Secondly, I'm not a fan of the modular loadouts introduced with the new Armada
+fleet. While the concept is cool and allows you to fine tune an individual
+pilot, I find that this system takes away most of their individual identities.
+With a choice of two unique specials and six shared firing patterns, these
+ships feel rather homogenous. I would've rather had the Armada fleet split up
+into six individual pilots, so that each ship feels distinct in its playstyle
+similar to the classic and treason ships.
+
+So with all of this ship variety, I find the lack of a test drive mode to be a
+rather curious ommission. Considering that you'll need to individual unlock
+most of your fleet in the in-game store, there's no way to test out a pilot and
+see if you like their playstyle before you make the commitment. Such a mode
+would also allow you to get a basic grasp of their mechanics in a danger-free
+environment and quickly swap between ships for practice. As it is, you'll have
+to load into a level and wait for the unskippable text to pass before you can
+try them out, which is rather annoying.
+
+Speaking of the in-game shop, there is a staggering amount of unlockable
+content. From new ships, challenges, and difficulty modes, there's a lot to
+keep you coming back.  LIKE:
 
 DISLIKE:
 
 Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan of that
-No way to try out ships ina training mode to get used to their mechanics. Need to figure it out in the level. 
-Balance of the ships seems a bit questionable. Like, while bomber can deal a lot of damage manually detonating his shots, gunner has 360 degree bullets, which is a lot more useful. In general, anyone with moveable projectiles seems to be more versatile. 
 Game is a bit easy on normal and difficult. Need to bump it up to Legendary to get some challenge. Might just be me. 
-Loading times are annoying, with the text being unskippable. Not a problem on its own, but frustrating when restarting a lot to do a no hit run. 
 
