@@ -10,15 +10,15 @@ For those of you that are unfamiliar with Bullet Hell shooters, here's a small
 collection of gameplay to get you brought up to speed.  --Play DoDonpachi,
 Deathsmiles, Mushishihimesama, Blue Revolver--
 
-While individual mechanics and aesthetics greatly differ in these titles,
-all good shooters abide by two essential rules.
+While individual mechanics and aesthetics greatly differ in these titles, all
+good shooters abide by two essential rules.
 
 1). Visual Clarity. 
 
-Can the player track what's happening onscreen at any given moment? 
-Can they distinguish what lies in the foreground versus the background? Is it
-easy to tell what is and is not an enemy?  Are projectiles distinct
-from all other objects, so that they don't blend into their surroundings?
+Can the player track what's happening onscreen at any given moment?  Can they
+distinguish what lies in the foreground versus what's in the background? Is it
+easy to tell what is and is not an enemy?  Are projectiles distinct from all
+other objects, so that they don't blend into their surroundings?
 
 No matter how many bullets are flying across the screen, a well-designed shmup
 should always be visually readable by the player. 
@@ -34,20 +34,50 @@ acceleration or ending inertia directly work against this principle.
 Although I've noticed some issues with visual clarity, Jamestown otherwise
 meets these criteria, while adding in some of its own interesting mechanics.
 
-Let me briefly talk about the basics. (gush about vaunting)
-
 Where Jamestown sets itself apart from other shooters is in the insane amount
 of ship variety. You can choose between 12 vehicles, 3 of which have
 customizable specials and firing patterns. While some of the choices are a bit
 redundant, I appreciate the amount of strategic options given to the player.  
 
-There are some oversights with their mechanical designs. First, ships with
-controllable projectiles are far more reliable than ones without them. Most
-notably, the Gunner pilot, which has 360 degree bullet firing, is the most
-useful on a regular basis. That's not to say that the other ships are bad, but
-I find the improved positioning offer by Gunner to be far more useful than the
-extra damage potential from ships with static firing patterns like Bomber. That
-said, I don't think there are any outright bad ships.
+I'll briefly talk about the combat basics. Every ship has access to a primary
+attack, a special, and the vaunt ability. With the exception of the Armada
+fleet, each pilot has a fixed firing pattern for their primary. Beam will
+shotgun out a spread of projectiles, whereas Gunner shoots out a more
+concentrated pillar of them. A pilot's special is usually an alternate attack,
+but they can also be provide utility. For example, Gunpowder will shoot out
+explosive barrels with his special, while Ghost creates a doppelganger that
+fires bullets. No pilot shares the same special, resulting in each ship feeling
+distinct in the role.
+
+When the player collects enough gold from enemies, they can trigger a vaunt. On
+activation, a temporary shield is created around the player, blocking any
+incoming projectiles. Additionally, until Vaunt's duration runs out, you'll
+gain a 2x score multiplier and deal 50% additional damage.  On top of that,
+when Vaunt expires, you'll receive an additional lump score bonus based on how
+long it was active. Finally, the player can prematurely end vaunt to create an
+emergency projectile shield, at the expense of putting vaunt accumulation on a
+cooldown.  
+
+Mastering this ability is key to success in Jamestown. The utility of clearing
+out bullets for a short duration cannot be underestimated, as it can easily
+allow you to reposition yourself out of the line of fire. Vaunting also grants
+the player several strategic options at any given moment. Do you let it quickly
+expire to spam the defensive aspect of the ability, or do you draw out its
+duration to maximize DPS and score? Additionally, you'll need to decide if you
+want to prematurely end a vaunt, as it can save you from fatal damage, at the
+expense of killing your score combo. 
+
+On top of that system, Jamestown also sets itself apart from other shooters
+with its insane amount of ship variety. You can choose between 12 vehicles, 3
+of which have customizable specials and firing patterns.  While I appreciate
+all of this choice, I do think there are some oversights with their mechanical
+designs. First, ships with controllable projectiles are far more reliable than
+ones without them. Most notably, the Gunner pilot, which has 360 degree bullet
+firing, is the most useful on a regular basis. That's not to say that the other
+ships are bad, but I find the improved positioning granted by Gunner to be far
+more useful than the extra damage potential from ships with static firing
+patterns like Bomber. That said, I don't think there are any outright bad
+ships.
 
 Secondly, I'm not a fan of the modular loadouts introduced with the new Armada
 fleet. While the concept is cool and allows you to fine tune an individual
@@ -57,21 +87,22 @@ ships feel rather homogenous. I would've rather had the Armada fleet split up
 into six individual pilots, so that each ship feels distinct in its playstyle
 similar to the classic and treason ships.
 
-So with all of this ship variety, I find the lack of a test drive mode to be a
-rather curious ommission. Considering that you'll need to individual unlock
-most of your fleet in the in-game store, there's no way to test out a pilot and
-see if you like their playstyle before you make the commitment. Such a mode
-would also allow you to get a basic grasp of their mechanics in a danger-free
-environment and quickly swap between ships for practice. As it is, you'll have
-to load into a level and wait for the unskippable text to pass before you can
-try them out, which is rather annoying.
+Curiously, there's a lack of a test drive mode for trying out new pilots.
+Considering that you'll need to individual unlock most of your fleet in the
+in-game store, there's no way to test out a ship and see if you like their
+playstyle before you make the commitment. Such a mode would also allow you to
+get a basic grasp of their mechanics in a danger-free environment and quickly
+swap between ships for practice. As it is, you'll have to load into a level and
+wait for the unskippable text to pass before you can try them out, which is
+rather annoying.
 
 Speaking of the in-game shop, there is a staggering amount of unlockable
-content. From new ships, challenges, and harder difficulty modes, there's a lot to
-keep you coming back.  LIKE:
+content. From new ships, challenges, and harder difficulty modes, there's a lot
+to keep you coming back.  
 
 DISLIKE:
 
-Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan of that
-Game is a bit easy on normal and difficult. Need to bump it up to Legendary to get some challenge. Might just be me. 
+Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan
+of that Game is a bit easy on normal and difficult. Need to bump it up to
+Legendary to get some challenge. Might just be me. 
 
