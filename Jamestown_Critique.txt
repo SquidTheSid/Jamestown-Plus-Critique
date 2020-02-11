@@ -39,15 +39,15 @@ of ship variety. You can choose between 12 vehicles, 3 of which have
 customizable specials and firing patterns. While some of the choices are a bit
 redundant, I appreciate the amount of strategic options given to the player.  
 
-I'll briefly talk about the combat basics. Every ship has access to a primary
+Let me briefly talk about the combat basics. Every ship has access to a primary
 attack, a special, and the vaunt ability. With the exception of the Armada
 fleet, each pilot has a fixed firing pattern for their primary. Beam will
 shotgun out a spread of projectiles, whereas Gunner shoots out a more
 concentrated pillar of them. A pilot's special is usually an alternate attack,
-but they can also be provide utility. For example, Gunpowder will shoot out
-explosive barrels with his special, while Ghost creates a doppelganger that
-fires bullets. No pilot shares the same special, resulting in each ship feeling
-distinct in the role.
+but they can also be provide utility. For example, Ghost creates a doppelganger
+that fires bullets. while Gunner can reposition his primary fire's angle. No
+pilot shares the same special, resulting in each ship feeling distinct in their
+role.
 
 When the player collects enough gold from enemies, they can trigger a vaunt. On
 activation, a temporary shield is created around the player, blocking any
@@ -60,24 +60,26 @@ cooldown.
 
 Mastering this ability is key to success in Jamestown. The utility of clearing
 out bullets for a short duration cannot be underestimated, as it can easily
-allow you to reposition yourself out of the line of fire. Vaunting also grants
-the player several strategic options at any given moment. Do you let it quickly
-expire to spam the defensive aspect of the ability, or do you draw out its
-duration to maximize DPS and score? Additionally, you'll need to decide if you
-want to prematurely end a vaunt, as it can save you from fatal damage, at the
-expense of killing your score combo. 
+allow you to reposition yourself out of the line of fire and save you from
+death. Vaunting grants the player several tactical options available at any
+given moment. Do you let it quickly expire to spam the defensive aspect of the
+ability, or do you draw out its duration to maximize DPS and score?
+Additionally, you'll need to decide if you want to prematurely end a vaunt, as
+it can save you from fatal damage, at the expense of killing your score combo.
+Overall, Vaunt adds in a nice layer of strategic depth to the already chaotic
+bullet dodging, while forcing the player to consider the metagame ramifications
+of their moment-to-moment decisions. 
 
-On top of that system, Jamestown also sets itself apart from other shooters
-with its insane amount of ship variety. You can choose between 12 vehicles, 3
-of which have customizable specials and firing patterns.  While I appreciate
-all of this choice, I do think there are some oversights with their mechanical
-designs. First, ships with controllable projectiles are far more reliable than
-ones without them. Most notably, the Gunner pilot, which has 360 degree bullet
-firing, is the most useful on a regular basis. That's not to say that the other
-ships are bad, but I find the improved positioning granted by Gunner to be far
-more useful than the extra damage potential from ships with static firing
-patterns like Bomber. That said, I don't think there are any outright bad
-ships.
+Where Jamestown also sets itself apart from other shooters is with its insane
+ship variety. You can choose between 12 unique pilots, 3 of which have
+customizable specials and firing patterns.  While I appreciate all of this
+choice, I do think there are some oversights with their mechanical designs, as
+a result.  First, ships with controllable projectiles are far more reliable
+than ones without them.  Most notably, the Gunner pilot, which has 360 degree
+bullet firing, is the most useful on a regular basis. That's not to say that
+the other ships are bad, but I find Gunner's improved positioning to be more
+useful than the extra DPS potential from ships with static firing patterns like
+Bomber. 
 
 Secondly, I'm not a fan of the modular loadouts introduced with the new Armada
 fleet. While the concept is cool and allows you to fine tune an individual
@@ -100,7 +102,17 @@ Speaking of the in-game shop, there is a staggering amount of unlockable
 content. From new ships, challenges, and harder difficulty modes, there's a lot
 to keep you coming back.  
 
-DISLIKE:
+--talk about each level--
+
+
+CONCLUSION:
+
+Overall, Jamestown Plus is a great improvement over the original due to how
+much new and improved content it has. If you're new to bullet hell shooters or
+want a local co-op game to play with friends, then you're in for an excellent,
+if somewhat brutal, time. 
+
+DISLIKE (NOTES):
 
 Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan
 of that Game is a bit easy on normal and difficult. Need to bump it up to
