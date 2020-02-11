@@ -34,7 +34,7 @@ acceleration or ending inertia directly work against this principle.
 Although I've noticed some issues with visual clarity, Jamestown otherwise
 meets these criteria, while adding in some of its own interesting mechanics.
 
-Let me briefly talk about the basics... (gush about vaunting)
+Let me briefly talk about the basics. (gush about vaunting)
 
 Where Jamestown sets itself apart from other shooters is in the insane amount
 of ship variety. You can choose between 12 vehicles, 3 of which have
@@ -67,7 +67,7 @@ to load into a level and wait for the unskippable text to pass before you can
 try them out, which is rather annoying.
 
 Speaking of the in-game shop, there is a staggering amount of unlockable
-content. From new ships, challenges, and difficulty modes, there's a lot to
+content. From new ships, challenges, and harder difficulty modes, there's a lot to
 keep you coming back.  LIKE:
 
 DISLIKE:
