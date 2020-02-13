@@ -80,6 +80,24 @@ angles like Bomber.
 
 Let's examine each pilot in more depth. 
 
+Beam is the beginner pilot, being well balanced all-around, but not
+particularly excelling at anything. He's got a cone shaped shotgun-spread of
+bullets, which allows him to slightly juke enemies while still hitting them.
+His special is a massive laser beam that deals insane damage to anything it
+hits, but slows him to a crawl during the process. I think of the "noob
+friendly" pilots in the game (gunpowder, beam, charge, and treason), I find him
+to be the most versatile all around, thanks in part to his solid firing
+pattern. 
+
+Charge is a boss killer. While her energy ball takes a while to power up, it
+deals a ridiculous amount of damage to anything it touches. And unlike Beam, it
+travels through obstactles in the environment, allowing you to take some
+potshots behind cover.  However, this is offset by the ship pilot zero angled
+attacks. And considering that the orb travels rather slowly, you need to plan
+ahead with your specials, as the pilot easily gets overwhelmed by mobs.
+Personally, I'm not a huge fan of her playstyle, as I don't enjoy having to put
+myself in the direct line of enemy fire to deal any damage. 
+
 Treason is unique in that he is the fastest pilot in the game. However, he's
 got several downsides to counterbalance this. 1). His primary attack can only
 target one direction, so he's weak against enemies that chase him or are out of
@@ -97,7 +115,9 @@ becomes weaker. Additionally, the barrels have a "sweet" spot where they can do
 damage, so you need to keep this in mind or else you'll whiff enemies. The
 barrels have fairly good aoe and are strong at clearing mobs so long as you're
 in the effective targeting range, but he has no way to protect himself from
-being flanked by enemies.
+being flanked by enemies. I find him to be a more AoE-centric version of
+Charge. While he has less sustained damage, he can handle packs enemies with
+much more ease. 
 
 Ghost is the most unusual ship in the game. Simply put, you're playing as two
 ships simultaneously. His primary fire deals  rather mediocre damage.  However,
