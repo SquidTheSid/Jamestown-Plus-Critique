@@ -1,10 +1,12 @@
-Jamestown Plus Review
+Jamestown Plus Critique
 
 -- show montage of bullet dodging--
 
 Well here we are. After five long years, Jamestown Plus finally makes its way
-to PC.  Let's see how this version of the game holds up after nearly a decade
-since the original Steam release.
+to PC.  Featuring four additional pilots, two brand new
+levels, and the super gauntlet mode, there's a lot of new content on
+display here. Let's see how this version of the game holds up after nearly a
+decade since the original Steam release.
 
 For those of you that are unfamiliar with Bullet Hell shooters, here's a small
 collection of gameplay to get you brought up to speed.  --Play DoDonpachi,
@@ -34,19 +36,14 @@ acceleration or ending inertia directly work against this principle.
 Although I've noticed some issues with visual clarity, Jamestown otherwise
 meets these criteria, while adding in some of its own interesting mechanics.
 
-Where Jamestown sets itself apart from other shooters is in the insane amount
-of ship variety. You can choose between 12 vehicles, 3 of which have
-customizable specials and firing patterns. While some of the choices are a bit
-redundant, I appreciate the amount of strategic options given to the player.  
-
 Let me briefly talk about the combat basics. Every ship has access to a primary
 attack, a special, and the vaunt ability. With the exception of the Armada
 fleet, each pilot has a fixed firing pattern for their primary. Beam will
 shotgun out a spread of projectiles, whereas Gunner shoots out a more
 concentrated pillar of them. A pilot's special is usually an alternate attack,
 but they can also be provide utility. For example, Ghost creates a doppelganger
-that fires bullets. while Gunner can reposition his primary fire's angle. No
-pilot shares the same special, resulting in each ship feeling distinct in their
+that fires bullets, while Gunner can reposition his primary fire's angle. No
+pilot shares the same special, so each ship feels distinct in their
 role.
 
 When the player collects enough gold from enemies, they can trigger a vaunt. On
@@ -74,12 +71,61 @@ Where Jamestown also sets itself apart from other shooters is with its insane
 ship variety. You can choose between 12 unique pilots, 3 of which have
 customizable specials and firing patterns.  While I appreciate all of this
 choice, I do think there are some oversights with their mechanical designs, as
-a result.  First, ships with controllable projectiles are far more reliable
-than ones without them.  Most notably, the Gunner pilot, which has 360 degree
-bullet firing, is the most useful on a regular basis. That's not to say that
-the other ships are bad, but I find Gunner's improved positioning to be more
-useful than the extra DPS potential from ships with static firing patterns like
-Bomber. 
+a result.  First, the benefit of being able to fire from any angle makes makes
+certain ships more reliable than others.  Most notably, the Gunner pilot, which
+has 360 degree bullet firing, is the most useful on a regular basis. That's not
+to say that the other ships are bad, but I find Gunner's improved positioning
+to be more useful than the extra DPS potential from ships with static firing
+angles like Bomber.
+
+Let's examine each pilot in more depth. 
+
+Treason is unique in that he is the fastest pilot in the game. However, he's
+got several downsides to counterbalance this. 1). His primary attack can only
+target one direction, so he's weak against enemies that chase him or are out of
+his direct line of fire. He does have homing missles to help out, but those
+greatly slow him down and can't be used to specifically target an enemy.Given
+that his primary fire deals a mediocre amount of damage, you need to use
+missles toclear enemies at a reasonable rate. He overall struggles against
+large mobs (stage 3 in particular) and bullet frenzies (as his speed makes it
+harder to control around bullets), but can do some solid work against larger
+foes due to the high burst DPS from his missles.
+
+Gundpower can deal some insane burst damage due to his three orbital TNT
+barrels. However, when you fire one off using your special, your primary attack
+becomes weaker. Additionally, the barrels have a "sweet" spot where they can do
+damage, so you need to keep this in mind or else you'll whiff enemies. The
+barrels have fairly good aoe and are strong at clearing mobs so long as you're
+in the effective targeting range, but he has no way to protect himself from
+being flanked by enemies.
+
+Ghost is the most unusual ship in the game. Simply put, you're playing as two
+ships simultaneously. His primary fire deals  rather mediocre damage.  However,
+this all changes when you use his special. Depending on where you activated it,
+Ghost will create a astral projection of himself that constants shoots out a
+line of swords above it, and a cone of beams below it. Activating the special
+in another location will cause the specter to move to that location. Pressing
+it again will recall said spirit. While this phantom is out, Ghost is
+restricted to using a short-ranged melee weapon with incredible damage.  I'd
+say of all of the pilots in the game, he has the highest skill floor, as
+knowing the exact enemy spawn locations in each level is required to maximize
+the spirit's effectiveness. Additionally, you need to be far more aggressive
+than any other ship in order to deal damage, which increases the risk of
+getting hit. Proper usage of vaunt is absolutely essential for survival. The
+upside to all of this is that Ghost can clear through crowds and bosses
+incredibly quickly once mastered. 
+
+
+Gunner is the best ship in the game
+
+Bomber lol.
+
+Beam
+
+Charge
+
+Armada
+
 
 Secondly, I'm not a fan of the modular loadouts introduced with the new Armada
 fleet. While the concept is cool and allows you to fine tune an individual
@@ -89,14 +135,13 @@ ships feel rather homogenous. I would've rather had the Armada fleet split up
 into six individual pilots, so that each ship feels distinct in its playstyle
 similar to the classic and treason ships.
 
-Curiously, there's a lack of a test drive mode for trying out new pilots.
-Considering that you'll need to individual unlock most of your fleet in the
-in-game store, there's no way to test out a ship and see if you like their
-playstyle before you make the commitment. Such a mode would also allow you to
-get a basic grasp of their mechanics in a danger-free environment and quickly
-swap between ships for practice. As it is, you'll have to load into a level and
-wait for the unskippable text to pass before you can try them out, which is
-rather annoying.
+Curiously, there's no practice mode to test drive new pilots.  Considering that
+you'll need to individual unlock most of your fleet in the in-game store,
+there's no way to test out a ship and see if you like their playstyle before
+you make the commitment. Such a mode would also allow you to get a basic grasp
+of their mechanics in a danger-free environment and quickly swap between ships
+for practice. As it is, you'll have to load into a level and wait for the
+unskippable text to pass before you can try them out, which is rather annoying.
 
 Speaking of the in-game shop, there is a staggering amount of unlockable
 content. From new ships, challenges, and harder difficulty modes, there's a lot
