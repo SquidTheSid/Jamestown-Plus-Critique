@@ -81,7 +81,7 @@ angles like Bomber.
 Let's examine each pilot in more depth. 
 
 Beam is the beginner pilot, being well balanced all-around, but not
-particularly excelling at anything. He's got a cone shaped shotgun-spread of
+excelling at anything in particular. He's got a cone shaped shotgun-spread of
 bullets, which allows him to slightly juke enemies while still hitting them.
 His special is a massive laser beam that deals insane damage to anything it
 hits, but slows him to a crawl during the process. I think of the "noob
@@ -97,6 +97,23 @@ attacks. And considering that the orb travels rather slowly, you need to plan
 ahead with your specials, as the pilot easily gets overwhelmed by mobs.
 Personally, I'm not a huge fan of her playstyle, as I don't enjoy having to put
 myself in the direct line of enemy fire to deal any damage. 
+
+If you're a masochist and hate your life, then Bomber is the perfect pilot for
+you!  He's easily the worst ship in the game. How his gimmick works is that he
+shoots out a slow stream of weak bullets. At any point, he can detonate these
+projectiles before they collide to create a small but highly damaging
+explosion.  In theory, this is a great idea, and in practice if you're
+aggressive enough, you can deal some outright obscene damage. However, there
+are a lot of problems with his gameplay loop. You need to either be dangerously
+close to spam explosions, or split your attention between dodging and exploding
+bombs, which leads to death. He requires so much micromanagement to be halfway
+decent at dealing damage, a liability that none of the other ships have.
+Overall, he just feels punishing to play as. If his explosion and projectile
+radii were larger, then that'd give you some more breathing room to spam
+explosions or dodge more efficiently. But as it is, I cannot recommend playing
+as Bomber when every other pilot is far less suicidal.
+
+On the opposite end of the spectrum we have Gunner, my favorite pilot. 
 
 Treason is unique in that he is the fastest pilot in the game. However, he's
 got several downsides to counterbalance this. 1). His primary attack can only
@@ -135,14 +152,6 @@ getting hit. Proper usage of vaunt is absolutely essential for survival. The
 upside to all of this is that Ghost can clear through crowds and bosses
 incredibly quickly once mastered. 
 
-
-Gunner is the best ship in the game
-
-Bomber lol.
-
-Beam
-
-Charge
 
 Armada
 
