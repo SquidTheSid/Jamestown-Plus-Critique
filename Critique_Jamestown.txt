@@ -159,7 +159,7 @@ himself from being flanked. I find him to be a more AoE focused version of
 Charge, as both ships rely heavily on dealing bursts of damage directly in
 front of them to survive.
 
-Ghost is one of the most unusual pilots in the game. Simply put, you're playing
+Ghost is one of the more unusual pilots in the game. Simply put, you're playing
 as two ships simultaneously. On its own, his primary fire deals  rather
 mediocre damage, especially in front of the ship.  However, this all changes
 when you use his special. Depending on where you activate it, Ghost will create
@@ -179,31 +179,48 @@ mastered.
 
 The new Armada fleet operates differently in that you have the capabilities of
 six pilots merged into three. Each ship can customize a loadout two different
-specials and six shared firing patterns. For the sake of simplicity, I will be
-referring to each Armada pilot by their special, rather than their official
-name. 
+specials and six shared firing patterns.
 
-Espada is a hybrid of Ghost and Gunner. He possesses the former's melee sword,
-but he's able to reposition it in a 360 degree circle much like the latter's
-energy waves.  Unlike either of those two ships, Espada's primary fire is a
-rather significant source of his damage, so his special is intended  to
-supplement it. I find that so long as you're aggressive with him, you can clear
-out foes incredibly easily and take down bosses rather quickly. The downside to
-this is that he lacks the passive damage capabilities of Ghost and Gunner,
-though that can be mitigated to an extent with a different modular firing
-pattern. Overall, I find him to be the strongest high risk and high reward
-pilot due to his sheer damage output and the manueverability of his sword. 
-
-Corazon is a "safer" version of Espada. 
+Truth be told, I'm not a fan of them. While the concept of fine tuning a pilot
+to your individual tastes is cool, I find that the modular loadout system
+ultimately makes these ships feek to be rather homogenous. I would've rather
+had the Armada fleet split up into six individual pilots, so that each ship
+feels distinct in its playstyle and role. As it is, many members of the new
+fleet just feel like powered up versions of existing pilots. 
 
 
-Truth be told, I'm not a fan of this modular loadout system. While the concept
-is cool and allows you to fine tune an individual pilot, I find them to be
-rather homogenous in terms of ship identity. I would've rather had the Armada
-fleet split up into six individual pilots, so that each ship feels distinct in
-its playstyle and role. It'd also saves us the trouble of finding the specials
-and firing patterns that are actually useful.
 
+Drop is Beam 2.0. What makes him so much better than the OG pilot is his
+ability to "drop" beams into place when activated, firing continuously until
+you cancel the special, a bit similar to Ghost's projection.  However, I find
+drop to be superior, as the specter needs to be placed above incoming enemies
+to maximize its effectiveness, which can be nearly impossible in the middle of
+a boss encounter. Since drop's laser fires directly from where you placed it,
+it's significantly easier to reposition in the middle of a fight.  Secondly,
+while his special is active, drop is not slowed down, whereas Beam suffered a
+heavy movement speed penalty. 
+
+Similarly, Espada feels like an improved version of Ghost. While both pilots
+have melee weapons, only Espada is able to reposition it, similarly to how
+Gunner's 360 degree energy waves work. Although Ghost has a source of passive
+damage that Espada lacks, I find having supplemntary primary fire to be more
+consistently useful than a specter that shoots downwards, as it's much harder
+to reposition your pilot for maximum damage with the latter.
+
+
+Corazon is a better version of Charge.  For starters, he has modular firing
+patterns that she completely lacks, sidestepping her liability of being in the
+direct line of fire. Additionally, instead of shooting a slow-moving orb in
+a straight line, Corazon's special is controllable crystal with a
+massive hitbox. It's really no contest. With one activation of his
+special, you can clear out an entire screen of foes. 
+
+
+Do I really need to say more? It feels like there is no reason to play the
+classic pilots once you have their superior Armada counterparts unlocked. The
+only exceptions are Gunner with his controllable energy waves (though
+Grenadoe's aimable bombs function somewhat similarly) and Treason's improved
+movement speed. 
 
 Curiously, there's no practice mode to test drive pilots.  Considering that
 you'll need to individual unlock most of your fleet in the in-game store,
@@ -230,7 +247,7 @@ CONCLUSION:
 
 Overall, Jamestown Plus is a great improvement over the original due to how
 much new and improved content it has, despite the modular loadout system
-feeling rather half-baked. If you're new to bullet hell shooters, then this is
+feeling half-baked. If you're new to bullet hell shooters, then this is
 an excellent introduction to them. It's also great for genre veterans due to
 how unique its colonial steampunk aesthetic is. Plus, Vaunt is a fucking great
 mechanic.
