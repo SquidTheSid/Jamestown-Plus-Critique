@@ -230,10 +230,37 @@ of their mechanics in a danger-free environment and quickly swap between ships
 for practice. As it is, you'll have to load into a level and wait for the
 unskippable text to clear before you can try them out, which is rather annoying.
 
-Speaking of the in-game shop, there is a staggering amount of unlockable
-content. From new ships, challenges, and harder difficulty modes, there's a lot
-to keep you coming back.  
+Let's conclude our discussion on Jamestown by talking about its level design. 
+So what makes for a good level in a shmup? For me, it comes down to three things:
 
+
+1). Avoiding Dead Time
+
+Dead time is the cardinal sin of level pacing. The player should always be
+making a meaningful decision, such as dodging bullets or clearing out enemies.
+So when nothing is happening on screen and the player has no actions to take,
+the level's momentum grinds to a complete halt. As a result, it's important to
+minimize any wasted time. 
+
+2). Flexibility
+
+Is a stage designed in such a way such that it allows for multiple playstyles,
+or are you shoehorned into a specific strategy? Can you aggressively rack up a
+score combo, or do you play on the defensive? If it's evident that a single
+"best" strategy exists, then there's little reason to try out different tactics
+to maximize your score.
+
+3). Variety Variety Variety
+
+Simply put, repetition sucks. Both visually and mechanically, there needs to be
+evolution to keep the player engaged.  With the former, stages need to be
+memorable so that they don't blend into each other. Otherwise, the game becomes
+a homogenous blur. The second point is especially important as the player's
+skill needs to be tested in new and interesting ways to keep them on their toes
+and give each level a distinct identity.
+
+
+East Frontier is the tutorial level of Jamestown. 
 --talk about each level--
 East Frontier
 Dark Sector
