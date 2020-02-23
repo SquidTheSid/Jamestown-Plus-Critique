@@ -252,19 +252,69 @@ on their toes. Otherwise, levels aren't memorable.
 
 So with those in mind, let's talk about each of the seven individual stages. 
 
-East Frontier is the tutorial level of Jamestown. 
+East Frontier is the tutorial level for Jamestown. There are British musketeers
+to assist you in the beginning of the stage and the initial enemy wave spawns
+in slowly and predictably, giving players ample time to react and get familiar
+with their pilot. The Traitor Prince boss fight is also fairly straightforward with him only being a
+threat when he spawns in his tadpole army.
+Overall, not a bad introductory level, but it's easily the slowest of the lot pacingwise.
 
-Dark Sector.
+Dark Sector is the first stage to introduce minibosses, and that fucking ship
+seemingly has infinite HP. Outside of that, you'll face homing missles, which
+require a bit more foresight to dodge.  Unlike East Frontier, the level's
+identity completely shifts in the second half, switching to a dank swamp
+covered with toxic plants. The Lady of the Lake is a pretty easy boss fight, with
+her ads being real nuisance. So long as you take them out at a reasonable rate,
+there's nothing to worry about.  Truth be told, Dark Sector is my least
+favorite level. I find the miniboss to be more annoying than challenging due to
+his infalted health pool, and there aren't many interesting attack patterns
+with the enemies or the boss. That's a shame, because I love the overall visual
+design of the stage, but mechanically, it falls short compared to the later
+stages. 
 
-Badlands 
+Badlands is an immediate step up from Dark Sector. While it doesn't evolve
+visually like the former does, I find it to be far more interesting
+mechanically. Here, you're really tested on threat prioritization, as you'll
+deal with homing UFOs, tripwire mines, and IEDs, all of which will fuck you up
+in short order. The Last Sentry is also the most mechanically interesting boss
+fight thus far, as each phase has uniquely placed weakspots that force you to
+constantly reposition during the fight. That said, the spawning of his ads
+seems to be glitched,as I've died after I've defeated him, as a mob spawned
+directly on my ship, killing me instantly. 
 
-New Madrid
+New Madrid buiids upon the concepts introduced in Dark Sector, but with a
+twist. This time around, target prioritization is crucial for achieving high
+scores, as defeating the raid cart enemies in the correct order will yield a
+massive bonus. Outside of that, The Last Express boss expands upon the
+weakpoints introduced in the prior fight by having them being timed, forcing
+you to redo part of the phase if you're not quick enough. Overall, New Madrid
+is a solid continuation off of the mechanics introduced in the prior stage, but
+with new elements intended for score fiends. 
 
-Croatoa
+Croatoa is the final level of the base game, and easily the most interesting.
+Unlike the other stages, you need to physically navigate around obstacles in
+order to proceed. In a way, it reminds me of a platformer and adds in a nice
+bit of variety that's not seen in the other frenetic levels. What makes Croatoa
+particularly challenging is that you need to fight two bosses at the end of the
+level. The first is The Conquistador, where you need to focus down his
+weakpoint and dodge bullets, similar to the prior boss. Where things get tricky
+is in his awakened form, where you need to shoot down floating obstacles to
+damage his shield. 
 
-Phobos
+Phobos is a vastly improved version of Dark Sector. Much like the former, its
+visuals shift rather dramatically in the second half of the stage, but the
+mechanics are far more interesting. Many types of priority threats exist, and
+the second half tests out your crowd clearing capabilities. The Matriarch is a
+spectacular looking, if rather dull boss to fight due to her limited
+attack variety. 
 
-Deimos
+Finally, we have Deimos, my favorite stage. If the prospect of fighting alien
+pirate space crabs doesn't excite you, I don't know what will. Deimos is just
+an awesome action packed level in general, as there's very little time to
+breath in between the cannon barrages and crab bombers. The pirate queen boss
+is also a nice spectacle to close things off, evewn if she is a bit on the easy
+side due to how slow her projectiles are. 
+
 
 
 CONCLUSION:
@@ -285,11 +335,4 @@ channel news, you can follow me on Twitter @SquidTheSid1 or by joining the
 Squidcord discord server. If you'd like to be absolved of all guilt from using
 an adblocker, you can financially support this channel by donating to my
 Patreon page or by becoming a YouTuber member.  As always, stay frosty. 
-
-
-DISLIKE (NOTES):
-
-Judgment doesn't explain that vaunt cannot clear out green bullets. Not a fan
-of that Game is a bit easy on normal and difficult. Need to bump it up to
-Legendary to get some challenge. Might just be me. 
 
