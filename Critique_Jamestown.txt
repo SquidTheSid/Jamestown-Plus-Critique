@@ -4,20 +4,19 @@ Jamestown Plus Critique
 
 Well here we are. After five long years, Jamestown Plus finally makes its way
 to PC.  Featuring four additional pilots, two brand new
-levels, and the super gauntlet mode, there's a lot of extra content on
-display here. Let's see how this version of the game holds up after nearly a
-decade since the original Steam release.
+levels, and the super gauntlet mode, there's plenty of extra content on
+display here. Let's see how this version of the game holds up.
 
 For those of you that are new to Bullet Hell shooters, here's a small
 collection of gameplay to get you brought up to speed.  --Play DoDonpachi,
 Deathsmiles, Mushihimesama, Blue Revolver--
 
-While individual mechanics and aesthetics greatly differ in these titles, all
+While individual mechanics and aesthetics greatly differ, all
 good shooters abide by two essential rules.
 
 1). Visual Clarity. 
 
-Can the player track what's happening onscreen at any given moment?  Can they
+Can the player track what's occuring onscreen at any given moment?  Can they
 distinguish what lies in the foreground versus what's in the background? Is it
 easy to tell what is and is not an enemy?  Are projectiles distinct from all
 other objects, so that they don't blend into their surroundings?
@@ -28,7 +27,7 @@ should always be visually readable by the player.
 
 2). Precise Player Movement
 
-Given that shooters can require pixel perfect timing to dodge attacks,
+Given that shooters can require pixel perfect timing to avoid attacks,
 accurate player movement is necessary. In general, you should always be able to
 predict where your ship will go at any given moment. So systems like
 acceleration or ending inertia directly work against this principle.
@@ -38,13 +37,12 @@ distinguish, Jamestown otherwise meets these critical criteria, while adding in
 some of its own interesting mechanics.
 
 Let me briefly talk about the combat basics. Every ship has access to a primary
-attack, a special, and the vaunt ability. With the exception of the Armada
+attack, a special, and the vaunt ability. Excluding the Armada
 fleet, each pilot has a fixed firing pattern for their primary. Beam will
 shotgun out a spread of projectiles, whereas Charge shoots out a more
 concentrated pillar of them. A pilot's special is usually an alternate attack,
 but they can also provide utility. For example, Ghost creates a doppelganger
 that fires bullets, while Gunner can reposition his energy wave's firing angle.
-No pilot shares the same special, so each ship feels distinct in their role.
 
 When the player collects enough gold from enemies, they can trigger a vaunt. On
 activation, a temporary shield is created around their ship, blocking any
@@ -53,173 +51,161 @@ gain a 2x score multiplier and deal 50% additional damage.  On top of that,
 when Vaunt expires, you'll receive an additional score bonus based on how long
 the ability was active. Finally, vaunt can be prematurely ended to create an
 emergency projectile shield, at the cost of briefly preventing gold from
-recharging its2 cooldown.  
+recharging vaunt.  
 
 Mastering this ability is key to success in Jamestown. The utility of clearing
-out bullets for a short duration cannot be underestimated, as it can easily
-allow you to reposition yourself out of the line of fire and save you from
-death. Alternatively, it allows hyper aggressive ships like Ghost and Bomber to
-get a few critical seconds of invulnerability near a boss. On the whole,
-Vaunting grants the player several tactical options available at any given
-moment. Do you let it quickly expire to spam the defensive aspect of the
-ability, or do you draw out its duration to maximize DPS and score?
-Additionally, you'll need to decide when you want to prematurely end a vaunt,
-as it can save you from fatal damage which deletes the score bonus.
-Overall, Vaunt adds in a nice layer of strategic depth to the already chaotic
-bullet dodging, while forcing the player to consider the metagame ramifications
-of their moment-to-moment decisions. I think this is a much more interesting
-system than the screen-clearing bombs seen in other shooters, because Vaunt has
-much more nuance to it while still being simple to understand.
+out bullets cannot be underestimated, as it can allow you to reposition
+yourself into safety and save you from death. Alternatively, it allows
+aggressive ships like Ghost and Bomber to get a few critical seconds of
+invulnerability. On the whole, Vaunting grants the player several tactical
+options available at any given moment. Do you let it quickly expire to spam the
+defensive aspect of the ability, or do you draw out its duration to maximize
+DPS and score?  Additionally, you'll need to decide when you want to
+prematurely end a vaunt, as it can save you from fatal damage.  Overall, Vaunt
+adds in a nice layer of strategic depth to the already chaotic battlefield,
+while forcing the player to consider the metagame consequences of their
+decisions. I think this is a much more interesting system than the
+screen-clearing bombs seen in other shooters, because Vaunt has much more
+nuance to it while still being simple to understand.
 
 
-Where Jamestown also sets itself apart from other shooters is with its insane
-ship variety. You can choose between 12 unique pilots, 3 of which have
-customizable specials and firing patterns.  While I appreciate all of this
-choice, I do think there are some oversights with their mechanical designs.
-First, the benefit of being able to fire from any angle makes makes certain
-ships more reliable than others.  Most notably, the Gunner pilot, which has 360
-degree bullet firing, is the most useful on a regular basis. That's not to say
-that the other ships are bad, but I find Gunner's improved positioning to be
-more useful than the extra DPS from ships with rigid firing angles like Charge.
-
-Let's examine these pilots in more depth. 
+Where Jamestown also sets itself apart is with its insane ship variety. You can
+choose between 12 unique pilots, 3 of which have customizable specials and
+firing patterns.  While I appreciate all of this choice, I do think many
+problems arise as a result. Let's examine each of these pilots in more depth to
+see why. 
 
 Beam is the first ship you'll have unlocked, being well balanced all-around,
-but not excelling at anything in particular. He's got a cone shaped spread of
-bullets, which allows him to slightly juke enemies while still hitting them.
-His special is a massive laser beam that deals hefty damage to anything it
-hits, but slows him to a crawl during the process. While this can be an
-annoyance, I do find that this speed penalty can be situationally useful to
-help you dodge certain clusters of enemy projectiles. His major downside is
-that he can be rather easily flanked by enemies, such as the seeker UFOs in the
-Badlands level. I think of the "noob" pilots in the game (gunpowder, beam,
-charge, and treason), I find Beam to be the most versatile consistently, thanks
-in part to his solid firing pattern and reliable damage output. 
+but not excelling at anything. He's got a cone shaped spread of bullets, which
+allows him to slightly juke enemies while still hitting them.  His special is a
+massive laser beam that deals hefty damage, but slows him to a crawl during the
+process. While this can be an annoyance, I do find that this speed penalty can
+be situationally used for more precise movement. His major downside is that he
+can be rather easily flanked by enemies, a problem common with many other
+ships. I think of the "noob" pilots in the game (gunpowder, beam, charge, and
+treason), I find Beam to be the most versatile , thanks in part to
+his solid firing pattern and reliable damage output. 
 
 Charge is good at killing bosses, but not much else. While her energy ball
 deals a ridiculous amount of damage to anything it touches, it takes a while to
-charge up. Furthermore, she has zero angled attacks, so you'll always need to
-be in the direct line of fire to deal damage. And considering that her orb
-travels rather slowly, you'll need to plan ahead and make judicious use of your
-special as whiffs can easily result in death. I find that she's weakest on
-levels with tightly clustered enemies like Badlands or Phobos, since she has no
-way to deal with enemy flanks.  As a result, I'm not a huge fan of her
-playstyle, as I don't enjoy having to put myself into  danger to deal any
-damage. 
+charge up and travels slowly. Furthermore, she has zero angled attacks, so
+you'll always need to be in the direct line of fire to deal damage. The main
+problem I have with her is that she needs to rely on the orbs to reliably clear
+crowds. So if you whiff your special, that mistake can easily result in death.
+I find that she's weakest on levels with tightly clustered enemies like
+Badlands or Phobos, since she has no way to effectively deal with enemy flanks.
+As a result, I'm not a huge fan of her playstyle.
 
 If you're a masochist and hate your life, then Bomber is the perfect pilot for
-you!  He's easily the worst ship in the game. How his gimmick works is that he
-shoots out a slow stream of weak bullets. At any point, he can detonate these
-projectiles before they collide by using his special to create small but highly
-damaging explosions.  In theory, this is a fun idea, and in practice if you're
-aggressive enough, you can deal some outright obscene damage to bosses.
-However, this gameplay loop has many problems. You need to either be
-dangerously close to spam explosions, or split your attention between dodging
-and detonating bombs, both of which easily lead to death. He requires so much
-micromanagement to be halfway decent, a liability that none of the other ships
-have.  Overall, he just feels punishing to play as. If his explosion and
-projectile radii were larger, then that'd give you some more breathing room to
-spam explosions or dodge more efficiently. But as it is, I cannot recommend
-playing as Bomber when every other pilot is far less suicidal in nature.
+you!  How his gimmick works is that he shoots out a slow stream of weak
+bullets. At any point, he can detonate these projectiles before they collide by
+using his special to create small but highly damaging explosions.  In theory,
+this is a cool idea, and in practice if you're aggressive enough, you can deal
+some outright obscene damage to bosses.  However, this gameplay loop has many
+problems for me. Because his primary fire deals so little damage and has such a
+small AoE, you need to use his explosions to deal any real damage. As a result,
+you need to either be dangerously close to spam explosions, or split your
+attention between dodging and detonating bombs, both of which can easily lead
+to your death. Since his gimmick requires so much micromanagement to make him
+halfway decent, his special feels a liability, a problem that none of the other
+ships have.  Overall, he just feels punishing to play as. If his explosion and
+projectile radii were larger, then that'd give you some more breathing room for
+dodging or spamming explosions. But as it is, Bomber feels underpowered due to
+his need to be suicidally close to enemies. 
 
 On the opposite end of the spectrum we have Gunner, one of the most versatile
-pilots in Jamestown. As mentioned earlier, his special allows him to reposition
-his energy waves based on the direction he's currently moving in. This
-effectively allows him to have 360 degree bullet coverage, a trait that most
-other ships in the game lack.  As a result, it's hard to be ganked, as he can
-easily reposition himself out of the direct line of enemy fire and clear out
-groups of flanking foes. This is especially useful in bossfights, where he can
-focus purely on dodging while still passively dealing damage. His biggest
-setback is the rather width of his energy waves, but I find his mobility to
-more than make up for that.
+pilots in Jamestown. His special allows him to shift his energy waves based on
+the direction he's currently moving in. This effectively allows him to have 360
+degree bullet coverage, a trait that most other ships in the game lack.  As a
+result, it's hard to be ganked, as he can reposition himself to easily clear
+out groups of flanking foes. This is especially useful in bossfights, where he
+can focus purely on dodging while still passively dealing damage. His biggest
+setback is the rather narrow width of his energy waves, but I find his mobility
+to more than make up for that.
 
 Treason is unique in that he is the fastest pilot in the game. However, he's
 got several limitations to counterbalance this. The most notable of these is a
 fixed firing pattern in front of the ship, meaning that he's quite vulnerable
-to flanks. While he has homing missles to help out, firing or charging
-them will slow the ship down to a crawl. Additional, they can't be "dumb-fired"
-and will seemingly always home in on enemies at random. Given that his primary fire
-deals a rather mediocre amount of damage, you need to use these missles to
-clear out enemies at a reasonable rate. Much like Charge, he struggles heavily
-against large crowds (Badlands is particularly painful), though his speed does
-let him escape chases more easily than most other pilots. A unique drawback to
-Treason is that his speed makes his movement harder to control, which has
-caused me to get hit by bullet frenzies.
+to flanks. While he has homing missles to help out, firing or charging them
+will slow the ship down to a crawl. Additional, they can't be "dumb-fired" and
+will seemingly always target the "closest" enemy, which can be unpredictable.
+Given that his primary fire deals a rather mediocre damage, you need to use
+these missles to clear out enemies at a reasonable rate. Much like Charge, he
+struggles heavily against large crowds (Badlands is particularly painful),
+though his speed lets him escape chases more easily than most other pilots. A
+unique drawback to Treason is that his movement harder to control due to his
+speed, which has caused me to get hit by bullet frenzies.
 
-Gunpower can deal some solid burst damage due to his three orbital TNT barrels.
+Gunpower can deal some solid burst damage due to his orbital TNT barrels.
 However, when you fire one off using your special, your primary attack becomes
-weaker with each explosive you shoot off. Additionally, these barrels have a
-"sweet" spot where they deal maximum damage, so you need always keep this in
-mind or else you'll regularly whiffining crowds of enemies. While Gunpowder is
-fairly strong at bursting down mobs in front of him, he has no way to protect
-himself from being flanked. I find him to be a more AoE focused version of
-Charge, as both ships rely heavily on dealing bursts of damage to survive.
+weaker with each explosive you shoot off. These barrels have a "sweet" spot
+where they deal maximum damage, so you need always keep this in mind or else
+you'll regularly whiffing crowds of enemies. I'm not a fan of this aspect of
+his ship design, since I feel that it adds in pointless micromanagement, much
+like Bomber's manually detonated explosives. Much like charge, Gunpowder's
+biggest drawback is his inability to protect himself from a flank.
 
-Ghost is one of the more unusual pilots in the game. Simply put, you're playing
-as two ships simultaneously. On its own, his primary fire deals  rather
-mediocre damage, especially directly in front of him.  However, this all
-changes when you use his special. Depending on where you activate it, Ghost
-will create a astral projection of himself that constantly shoots streams of
+Ghost is one of the more unusual pilots in the game in that you're playing as
+two ships simultaneously. On its own, his primary fire deals  rather negligible
+damage.  However, this all changes when you use his special. Depending on where
+you activate it, Ghost will create a astral projection that shoots streams of
 bullets above and below it. Activating the special in another location will
-cause the specter to move to said point after a short delay. Pressing it again
-will recall the spirit. While this phantom is out, Ghost is restricted to using
-a melee weapon. Unlike before, this modified primary fire deals incredible
+cause the specter to move there after a short delay. Pressing it again will
+recall the spirit. While this phantom is out, Ghost is restricted to using a
+melee weapon. Unlike before, this modified primary fire deals incredible
 damage, though it has a significantly shorter effective range.  I'd say of all
 of the pilots in the game, he has one of the highest skill floors, as knowing
 the exact spawn locations of enemies in each level is required to maximize his
 effectiveness. Additionally, you need to be far more aggressive than most other
-pilots in order to deal damage, which increases the risk of getting hit. The
-upside to all of this is that Ghost can clear through crowds and bosses rather
-quickly once mastered. 
+pilots, which increases the risk of getting hit. The upside to all of this is
+that Ghost can clear through crowds and bosses rather quickly once mastered. 
 
 The new Armada fleet operates differently in that you have the capabilities of
-six pilots merged into three. Each ship can customize a loadout of two different
-specials and six shared firing patterns.
-
-Truth be told, I'm not a fan of them. While the concept of fine tuning a pilot
-to your individual tastes is cool, I find that the modular loadout system
-ultimately makes these ships feel rather homogenous. I would've rather had the
-Armada fleet split up into six individual pilots, so that each ship has a
-distinct identity. As it is, many members of the new fleet just feel like
-powered up versions of existing pilots. 
+six pilots merged into three. Each ship can customize a loadout of two
+different specials and six shared firing patterns. And truth be told, I'm not a
+fan of this. While the concept of fine tuning a pilot to your individual tastes
+is neat, I find that the modular loadouts makes these ships feel homogenous. I
+would've rather had the Armada fleet split up into six individual pilots, so
+that each ship has a distinct identity. Another problem I have with the Armada
+pilots is how much stronger they are than their counterparts in the classic and
+treason fleets.  
 
 Drop is Beam 2.0. What makes him so much better than the OG is his ability to
-"drop" beams into place when activated, firing continuously until you cancel
-the special, a bit similar to Ghost's projection.  However, I find drop to be
-superior Ghost's summon, as the specter needs to be placed above incoming
-enemies to be effective, which can be nearly impossible in the middle of a boss
-fights. Since drop's laser fires directly from where you placed it, it's
-significantly easier to reposition in the middle of a battle.  Secondly, while
-his special is active, drop is not slowed down, whereas Beam suffered a heavy
-movement speed penalty. 
+"drop" beams into place when activated. These fire continuously until
+cancelled, a bit similar to Ghost's projection wprls.  However, I find drop to
+be superior to Ghost's summon, as the specter needs to be placed above incoming
+enemies to be effective, which is difficult to perform in boss fights. Since
+drop's laser fires directly above where you placed it, it's significantly
+easier to reposition in the middle of a battle.  Secondly, unlike Beam, he's
+not slowed down while his special is active.  penalty. 
 
-Similarly, Espada also feels like an improved version of Ghost. While both pilots
-have melee weapons, only Espada is able to reposition it, similarly to how
-Gunner's 360 degree energy waves work. Although Ghost has a source of passive
-damage that Espada lacks, I find having supplementary primary fire to be more
-consistently useful than a specter, as the latter makes repositioning more difficult.
+Similarly, Espada also feels like an improved version of Ghost. While both
+pilots have melee weapons, only Espada is able to reposition it, in a manner
+similar to Gunner's 360 degree energy waves. Although Ghost has a source of
+passive damage that Espada lacks, I find having supplementary primary fire to
+be more useful than a specter, as the latter makes repositioning more
+difficult.
 
-Corazon is a better version of Charge.  For starters, he has modular firing
-patterns that she completely lacks, sidestepping her liability of needing to
-directly be in the line of fire. Additionally, instead of shooting a
-slow-moving orb in a straight line, Corazon's special is controllable crystal
-with a massive hitbox. It's really no contest. With one activation of his
-special, you can clear out an entire screen of foes. 
+Corazon is a better version of Charge.  For starters, Corazon has modular
+firing patterns that can be used to fight off flanking enemies, something that
+Charge is incapable of doing. Additionally, instead of shooting a slow-moving
+orb in a straight line, Corazon's special is controllable crystal with a
+massive hitbox. It's really no contest to which ship is betrer, as With one
+activation of Corazon's special, you can clear out an entire screen of foes. 
 
 
-Do I really need to say more? It feels like there is no reason to play the
-classic pilots once you have their superior Armada counterparts unlocked. The
-only exceptions are Gunner with his controllable energy waves (though
-Grenadoe's aimable bombs function somewhat similarly) and Treason's improved
+The only ships that aren't made redundant by the new Armada pilots
+are Gunner with his controllable energy waves and Treason with his improved
 movement speed. 
 
 Curiously, there's no practice mode to test drive pilots.  Considering that
-you'll need to individual unlock most of your fleet in the in-game store,
-there's no way to try out a ship and see if you like their playstyle before
-you make the commitment. Such a mode would also allow you to get a basic grasp
-of their mechanics in a danger-free environment and quickly swap between ships
-for practice. As it is, you'll have to load into a level and wait for the
-unskippable text to clear before you can try them out, which is rather annoying.
+you'll need to individually unlock most of your fleet, there's no way to try
+out a ship and see if you like their playstyle before you purchase them in the
+in-game shop . Such a mode would also allow you to get a basic grasp of pilot's
+mechanics in a danger-free environment and quickly swap between ships for
+practice. As it is, you'll have to load into a level and wait for the
+unskippable text to clear before you can try them out, which is rather
+annoying, especially with the Armada fleet's modular loadouts.
 
 Let's conclude our discussion on Jamestown by talking about its level design. 
 What makes for a good stage in a shmup? For me, it comes down to three things:
@@ -244,33 +230,36 @@ out different tactics to maximize your score.
 3). Variety
 
 Simply put, repetition sucks. Both visually and mechanically, there needs to be
-evolution to keep the player constantly engaged.  With the former, stages need
-to be visually distinct so that they don't blend into each other. Otherwise,
-the game becomes a homogenous blur. The second point is especially important as
-the player's skill needs to be tested in new and interesting ways to keep them
-on their toes. Otherwise, levels aren't memorable.
+evolution to keep the player constantly engaged when replaying levels.  With
+visuals, stages need to be distinct so that they don't blend into each other.
+Otherwise, the game becomes a homogenous blur after a while. Mechanical variety
+is especially important as the player's skill needs to be constantly tested in
+new and interesting ways to keep them on their toes. Otherwise, levels become
+forgettable, even if they have an awesome aesthetic.
 
-So with those in mind, let's talk about each of the seven individual stages. 
+So with those rules in mind, let's brielfy talk about each stage. 
 
-East Frontier is the tutorial level for Jamestown. There are British musketeers
-to assist you in the beginning of the stage and the initial enemy wave spawns
-in slowly and predictably, giving players ample time to react and get familiar
-with their pilot. The Traitor Prince boss fight is also fairly straightforward with him only being a
-threat when he spawns in his tadpole army.
-Overall, not a bad introductory level, but it's easily the slowest of the lot pacingwise.
+East Frontier is the introductorylevel for Jamestown. As such, it give players
+training wheels that aren't present on later stages, such as the British
+musketeers that snipe foes. For the most part, enemy spawns on this level are
+slow and predictable, giving players ample time to react and get familiar with
+their pilot. The Traitor Prince boss fight is also fairly straightforward with
+him only being a threat when he spawns in his tadpole army.  Overall, for a
+tutorial level, it's not bad introductory level since it avoids lulls in
+pacing, but it's still easily the most simplistic stage.
 
-Dark Sector is the first stage to introduce minibosses, and that fucking ship
-seemingly has infinite HP. Outside of that, you'll face homing missles, which
-require a bit more foresight to dodge.  Unlike East Frontier, the level's
+Dark Sector is the first level to introduce a miniboss, one that seemingly has
+infinite fucking HP. Outside of that, you're introduced to yoming missles,
+which require a bit more foresight to dodge.  Unlike East Frontier, the level's
 identity completely shifts in the second half, switching to a dank swamp
-covered with toxic plants. The Lady of the Lake is a pretty easy boss fight, with
-her ads being real nuisance. So long as you take them out at a reasonable rate,
-there's nothing to worry about.  Truth be told, Dark Sector is my least
-favorite level. I find the miniboss to be more annoying than challenging due to
-his infalted health pool, and there aren't many interesting attack patterns
-with the enemies or the boss. That's a shame, because I love the overall visual
-design of the stage, but mechanically, it falls short compared to the later
-stages. 
+covered with toxic plants. The Lady of the Lake is a pretty easy boss fight,
+with only her ads being a real nuisance. So long as you take them out at a
+reasonable rate, there's nothing to worry about.  Truth be told, Dark Sector is
+my least favorite level. I find the miniboss to be more annoying than
+challenging due to his inflated health pool, and there aren't many interesting
+attack patterns with the enemies or the boss. That's a shame, because I love
+the overall visual design, but mechanically, it falls short compared to the
+later stages. 
 
 Badlands is an immediate step up from Dark Sector. While it doesn't evolve
 visually like the former does, I find it to be far more interesting
@@ -279,41 +268,51 @@ deal with homing UFOs, tripwire mines, and IEDs, all of which will fuck you up
 in short order. The Last Sentry is also the most mechanically interesting boss
 fight thus far, as each phase has uniquely placed weakspots that force you to
 constantly reposition during the fight. That said, the spawning of his ads
-seems to be glitched,as I've died after I've defeated him, as a mob spawned
-directly on my ship, killing me instantly. 
+seems to be glitched,as I've died after I've defeating him, as a mob spawned
+directly on my ship, killing me instantly. But outside of that bug, it's a
+solid stage, even if a bit forgettable visually.
 
 New Madrid buiids upon the concepts introduced in Dark Sector, but with a
 twist. This time around, target prioritization is crucial for achieving high
-scores, as defeating the raid cart enemies in the correct order will yield a
-massive bonus. Outside of that, The Last Express boss expands upon the
-weakpoints introduced in the prior fight by having them being timed, forcing
-you to redo part of the phase if you're not quick enough. Overall, New Madrid
-is a solid continuation off of the mechanics introduced in the prior stage, but
-with new elements intended for score fiends. 
+scores, as defeating the rail carts in the correct order is necessary for a
+massive bonus. Outside of that, The Last Express boss introduces timed
+weakpoints, forcing you to redo part of the phase if you're not quick enough in
+killing him. Thankfully, the amount of progress you need to redo isn't enough
+to be frustrating, so I think it adds in a nice incentive for speed. Overall,
+New Madrid is an excellent continuation off of Badlands, as I love the new
+mechanics introduced for high level scoring alongside the incredible visual
+detail in the mine shafts. 
 
-Croatoa is the final level of the base game, and easily the most interesting.
-Unlike the other stages, you need to physically navigate around obstacles in
-order to proceed. In a way, it reminds me of a platformer and adds in a nice
-bit of variety that's not seen in the other frenetic levels. What makes Croatoa
-particularly challenging is that you need to fight two bosses at the end of the
-level. The first is The Conquistador, where you need to focus down his
-weakpoint and dodge bullets, similar to the prior boss. Where things get tricky
-is in his awakened form, where you need to shoot down floating obstacles to
-damage his shield. 
+Croatoa is the final level of the base game, and easily the most interesting
+from a mechanics standpoint.  Unlike the other stages, you need to physically
+navigate around obstacles in order to proceed. In a way, it reminds me of a
+platformer and adds in a nice bit of variety that's not seen in the other
+levels. What makes Croatoa particularly challenging is that you need to fight
+two bosses at the end of the level. The first is The Conquistador, where you
+need to focus down his weakpoint and dodge bullets, similar to the prior boss.
+Where things get tricky is in his awakened form, where you need to shoot down
+floating obstacles to damage his shield.  The catch is that these blocks
+provide cover from his attacks, so you're directly putting yourself in harm's
+way to progress through the fight. I would've liked to see some more variety in
+his attack patterns, but he's still a satisfying boss to fight.
 
-Phobos is a vastly improved version of Dark Sector. Much like the former, its
-visuals shift rather dramatically in the second half of the stage, but the
-mechanics are far more interesting. Many types of priority threats exist, and
-the second half tests out your crowd clearing capabilities. The Matriarch is a
-spectacular looking, if rather dull boss to fight due to her limited
-attack variety. 
+As for the new levels, Phobos is a vastly improved version of Dark Sector. Much
+like the former, its visuals shift dramatically in the second half of the
+stage, but the mechanics are far more interesting this time. Like in Badlands,
+many types of priority threats permeate the level, from ridiculosuly oversized
+cannons to anti-tank missile launchers that hate you with a passion. The second
+half of the stage extensively tests out your crowd clearing capabilities, as
+insects will swarm your current location. The Matriarch is a spectacular
+looking, if rather dull boss to fight due to her limited attack variety. 
 
-Finally, we have Deimos, my favorite stage. If the prospect of fighting alien
-pirate space crabs doesn't excite you, I don't know what will. Deimos is just
-an awesome action packed level in general, as there's very little time to
-breath in between the cannon barrages and crab bombers. The pirate queen boss
-is also a nice spectacle to close things off, evewn if she is a bit on the easy
-side due to how slow her projectiles are. 
+
+Finally, we have Deimos, my favorite stage. If the prospect of fighting Martian
+crab pirates doesn't excite you, I don't know what will. It's just an awesome
+action packed level in general, as there's very little time to breath in
+between the cannons, laser barrages, and crab bombers. The pirate queen boss is
+also a nice way to close things off, even if she is a bit on the easy side. I
+think this is due to a combination of her projectiles being predictably slow
+and them coming mostly from in front of her ship.  
 
 
 
@@ -321,18 +320,23 @@ CONCLUSION:
 
 Overall, Jamestown Plus is a solid improvement over the original due to how
 much new and improved content it has, despite the modular loadout system
-feeling half-baked. If you're new to bullet hell shooters, then this is
-an excellent introduction to them. It's also great for genre veterans due to
-how unique its colonial steampunk aesthetic is. Plus, Vaunt is a fucking great
-mechanic.
+feeling half-baked. If you're new to bullet hell shooters or if you haven't
+played the original, then this is an excellent introduction to gemre. It's also
+great for veterans looking for something new due to how unique its vaunt
+mechanics and colonial steampunk aesthetic are.
 
 Thank you all very much for watching. This video was intended to be a quick and
-simple review, but you can see how that turned out. As for upcoming projects,
-I've been trying to get a review key for Daemon x Machina on Steam, so we'll
-see how that turns out. In the meantime, I'll try to actually make a shorter
-video, probably on Ubermosh: Omega, which I think is criminally overlooked. For
-channel news, you can follow me on Twitter @SquidTheSid1 or by joining the
-Squidcord discord server. If you'd like to be absolved of all guilt from using
-an adblocker, you can financially support this channel by donating to my
-Patreon page or by becoming a YouTuber member.  As always, stay frosty. 
+simple review, but you can see how that turned out. I'd like to give Durandal
+special thanks, as his encylopediac knowledge of shmups helped me out with a
+lot of writer's block. As for upcoming projects, I've been trying to get a
+review key for Daemon x Machina on Steam, so we'll see how that turns out. In
+the meantime, I'll try to actually make a shorter video, probably on Ubermosh:
+Omega, which I think is criminally overlooked. After that, I'll probably be
+bunkering down to work on a larger project, either Dying Light or Age of
+Empires 3. For channel news, you can follow me on Twitter @SquidTheSid1 or by
+join the Squidcord discord server. If you'd like to be absolved of all guilt
+from using an adblocker, you can financially support this channel by donating
+to my Patreon page or by becoming a YouTube member.  
+
+As always, stay frosty. 
 
